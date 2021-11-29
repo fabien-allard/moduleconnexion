@@ -24,7 +24,7 @@
 <header>
     <div class="Tableaux-bord">
         <h1>Bienvenue à l'accueil</h1>
-<img src="images/les jeux 2021.png" width="700px" height="350px">
+<img src="images/game2021.png" width="700px" height="350px">
 </div>
 </header>
 
@@ -136,6 +136,8 @@
             <p>Emails: Marseille13@laplateforme.io</p>
             <p>Adresse: 8 Rue d'Hozier</p>
             <p>Ville: Marseille 13002</p>
+            <h3>Mon liens github :</h3>
+            <a href="https://github.com/fabien-allard/moduleconnexion.git"></a>
             <hr style="height: 1px; color: rgb(22, 172, 177); width: 100%; border: 1px straight #000;">
             <p>Copyright © 2021-2022 </p>
             <p>All rights reserved.</p>
